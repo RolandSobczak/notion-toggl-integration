@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "toggl-notion-integration"
+name = "toggl_notion_integration"
 version = "0.1.0"
 description = ""
 authors = ["Roland Sobczak <rolandsobczak@icloud.com>"]
@@ -9,6 +9,7 @@ readme = "README.md"
 python = "3.11.6"
 httpx = "^0.26.0"
 pydantic = "^2.6.0"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
